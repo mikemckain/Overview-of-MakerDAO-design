@@ -73,7 +73,7 @@ We are a remote design team of four. Currently located in Asia, UK, USA and Cand
 
 
 
-• **Usability** [Master List of usability issues](https://airtable.com/shrDjJvA5uahFnvBk) 
+• **Usability** [Master List of usability issues](https://airtable.com/invite/l?inviteId=invYmMPFXPQtYYr11&inviteToken=0c9305bb16cbaebdedbca4c1d73e238c166d5fcf8286626bc0007e6f5b9e8bb9) 
 
 
 ### Governance  
@@ -87,7 +87,7 @@ We are a remote design team of four. Currently located in Asia, UK, USA and Cand
 
 
 
-• **Usability**  [Master List of usability issues](https://airtable.com/invite/l?inviteId=invgrfZdDZk8f8V5M&inviteToken=0e12fe343433f1e1281908097d832034c037e938ab9490eda6795cfa125bf4f1)  
+• **Usability**  [Master List of usability issues](https://airtable.com/invite/l?inviteId=invYmMPFXPQtYYr11&inviteToken=0c9305bb16cbaebdedbca4c1d73e238c166d5fcf8286626bc0007e6f5b9e8bb9)  
 
 
 
