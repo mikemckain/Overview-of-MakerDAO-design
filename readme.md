@@ -35,11 +35,11 @@ We are a remote design team of four. Currently located in Asia, UK, USA and Cand
 
 •  [Governance →](https://www.figma.com/file/P3WU8leDECFDItgLx4gh22t9/Governance?node-id=227%3A11)
 
-•  Auctions →
+•  [Auctions →](https://www.figma.com/file/F9TsFxtP2PmbHJdQ6NH8BSr1/Auctions?node-id=1222%3A213)
 
-•  Dai Savings →
+•  [Dai Savings →](https://www.figma.com/file/V9xKkIe0h3rgDpzWSCXa9yzC/Dai-Savings?node-id=0%3A1)
 
-•  Dai and MKR Redeemer →
+•  [Dai and MKR Redeemer →](https://www.figma.com/file/a8qsZQmaWFsnSb0A7RQqyiOA/Redeem?node-id=0%3A1)
 
 •  [Design system →](https://www.figma.com/file/WD1TVy5hFtVkWgd7hvhbzFIe/Components?node-id=1595%3A36)
 
